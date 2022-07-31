@@ -1,0 +1,4 @@
+attrdict==2.0.1
+requests==2.22.0
+Flask==1.1.1
+Flask-Cors==3.0.8
